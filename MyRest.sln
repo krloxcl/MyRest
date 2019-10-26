@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRest.Common", "MyRest.Common\MyRest.Common.csproj", "{83B62640-CB38-407E-AE38-20232BD93DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRest.Web", "MyRest.Web\MyRest.Web.csproj", "{DAD6219F-445C-43AA-AD10-0239374DAD18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83B62640-CB38-407E-AE38-20232BD93DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B62640-CB38-407E-AE38-20232BD93DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B62640-CB38-407E-AE38-20232BD93DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B62640-CB38-407E-AE38-20232BD93DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD6219F-445C-43AA-AD10-0239374DAD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD6219F-445C-43AA-AD10-0239374DAD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD6219F-445C-43AA-AD10-0239374DAD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD6219F-445C-43AA-AD10-0239374DAD18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0B88DD-482F-4BC9-8CA4-C4B64E0151E8}
+	EndGlobalSection
+EndGlobal
